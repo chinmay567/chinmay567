@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django Projects
-- 🌱 I’m currently learning Mysql Database
-- 👯 I’m looking to collaborate on Pyhton development
+- 🔭 I’m currently working on Node and Javascript Projects
+- 🌱 I’m currently learning Express Database
+- 👯 I’m looking to collaborate on nodejs development
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about ...Tach
 - 📫 How to reach me: dora.chinmay567@gmail.com
