@@ -6,10 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Node and Javascript Projects
-- 🌱 I’m currently learning Express Database
-- 👯 I’m looking to collaborate on nodejs development
-- 🤔 I’m looking for help with Javascript
+- 🔭 I’m currently working on Angular and Javascript Projects
+- 👯 I’m looking to collaborate on development
 - 💬 Ask me about ...Tach
 - 📫 How to reach me: dora.chinmay567@gmail.com
 - 😄 Pronouns: ...Chinmay
