@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Tach
 - 📫 How to reach me: dora.chinmay567@gmail.com
 - 😄 Pronouns: ...Chinmay
-- ⚡ Fun fact: ...Always Hungry 
+- ⚡ Fun fact: ...Always Hungry for tech ...
